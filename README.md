@@ -10,7 +10,7 @@ We learned and applied the following during this investigation:
 
 * `Data Preprocessing (Selection, Transformation, and Scaling)` is a technique for preparing data for Machine Learning Algorithms.
 * `Elbow Curve` - a method for determining the optimal number of clusters for an algorithm to categorise items by.
-* `Principal Component Analysis (PCA)` is a statistical technique which is used when the number of features in a machine learning method is too large,  technique for speeding up the algorithm.
+* `Principal Component Analysis (PCA)` is a statistical technique which is used when the number of features in a machine learning method is too large, for speeding up the algorithm.
 * `Clustering Algorithms (KMeans)` is the process of forming clusters out of comparable objects or data points.
 * `Visualization (hvPlot, Plotly)` are graphic libraries that enable us to generate 2D and 3D graphics vizualization.
 
